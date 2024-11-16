@@ -1,0 +1,11 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hero-bg-image{
+    background: url('https://unsplash.com/photos/a-night-sky-with-stars-above-a-mountain-iylD-pvsty8') no-repeat center center /cover;
+    background-attachment: fixed;
+    height: 600px;
+}
